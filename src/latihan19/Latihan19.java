@@ -10,6 +10,7 @@ package latihan19;
  Nama :Ma'rifatu Khirzah
  NIM :22205025
  Prodi :Teknik Informatika
+ Deskripsi :Menampilkan program saldo tabungan
  */
 public class Latihan19 {
 
