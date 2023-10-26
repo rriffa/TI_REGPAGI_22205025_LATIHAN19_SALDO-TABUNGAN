@@ -7,6 +7,9 @@ package latihan19;
 /**
  *
  * @author Lenovo
+ Nama :Ma'rifatu Khirzah
+ NIM :22205025
+ Prodi :Teknik Informatika
  */
 public class Latihan19 {
 
